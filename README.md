@@ -1,6 +1,6 @@
 ## Description
 
-  * Simple golang app to test web containers
+  * Simple golang app to test web containers!
   * Uses an environment variable to display where container is hosted
   
 ## How to run
