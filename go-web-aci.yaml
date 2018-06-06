@@ -9,7 +9,7 @@ spec:
     image: chzbrgr71/go-web:aci
     env:
     - name: HOST_PLATFORM
-      value: "Azure Container Instance"
+      value: "Azure Container Instance1"
     ports:
       - containerPort: 8080
   imagePullSecrets:
